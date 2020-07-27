@@ -1,6 +1,6 @@
 # Latex2mathMLGUI
 需要环境 python + re + tkinter + pyperclip +latex2mathml
-
+使用看intro
 
 
 
