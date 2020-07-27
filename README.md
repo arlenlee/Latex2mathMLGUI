@@ -1,4 +1,11 @@
 # Latex2mathMLGUI
+需要环境 python + re + tkinter + pyperclip +latex2mathml
+
+
+
+
+
+
 使用本源码默认同意Apache License 2.0 
 以及以下条款
 软件有且仅有latex转换一个功能
